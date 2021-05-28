@@ -1,0 +1,14 @@
+We can add more of categories and increase the vastness of this game. I have only added a few as i just wanted to test my code .
+More categories may Include:
+1)Books=[------------------YOUR WISH-----------]
+
+2)Professions=[accountant,lawyer,teacher,engineer,shopkeeper,maufacturer,housekeeper,maid,warden,peon,security guard,chef,actor,actress,air traffic controller,architect,artist,attorney,banker,manager,coach,gamer,caster,developer,designer,astronaut,scientist,explorer,adventurer,programmer]
+
+3)Tools=[wrench,saw,pick-axe,screw,screw driver,hammer,nail,drill,knife,blade,sword]
+
+4)Automobiles/vehicles=[car,bus,truck,motorcycle,bike,toe truck,jeep,van,mini bus,cycle,skateboard,skates,boat,ship,airbus,aeroplane,jet,aircraft,rocket,bulldozer,crane,raft,yatch,cruise,helicopter,hot air baloon]
+
+5)Brands=[pepsi,coca cola,faceboook,google,amazon,tesla,lamborghini,tata,reliance,dell,hp,lenovo,acer,asus,boat,amd,intel,aourus]
+
+6)Games=[ludo,chess,carrom,football,hockey,cricket,badminton,athletics,hide n seek,throwball,basketball,volleyball,baseball,tennis, golf,rugby,shooting,archery,weightlifting]
+...and many more if one wishes.
