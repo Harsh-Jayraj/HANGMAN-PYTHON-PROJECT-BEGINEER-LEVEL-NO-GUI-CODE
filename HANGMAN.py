@@ -80,7 +80,9 @@ while i>-1:
         for j in range(0,len(word)):
             if letter==word[j]:
                 blank[j]=word[j]
-        print(str(blank))
+        for k in range(0,len(word)):
+            print(blank[k],end=" ")
+        print("")
         
         if guess==blank:
             print("\n\n!-!-!-!-!-!-!-!-!-!-!-!---YOU WIN---!-!-!-!-!-!-!-!-!-!-!-!-!-!-!")
