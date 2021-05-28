@@ -1,5 +1,5 @@
 import random as r
-
+#---------categories-------------------------------
 countries=['Afghanistan','Albania','Algeria','Andorra','Angola','Antigua and Barbuda',
            'Argentina','Armenia','Australia','Austria','Azerbaijan','Baden',
            'Bahamas','Bahrain','Bangladesh','Barbados','Bavaria','Belarus','Belgium','Belize',
@@ -25,7 +25,11 @@ body=['eyes','nose','ears','tongue','head','lips','mouth','hairs','teeth','eyebr
       'elbow','palm','wrist','fingers','thumb','skin','chest','stomach','waist','legs','thigh','calf','knee',
       'ankle','foot','back','nails','knee-cap','toes','fist','claw','belly botton']
 
-#-----categories-------
+
+#----------If you want to add more categories you can take from categories.txt in my repository and add them here----------
+
+
+#-----categories choosing code--------------------
 print("choose your category: 1)countries 2)body")
 choose=int(input())
 if choose==1:
@@ -39,6 +43,8 @@ elif choose==2:
     word_number=r.randint(0,total_items)
     word=body[word_number]
     word=word.lower()
+
+#------if  you add more categories dont forget to add their number and name here for choice---------------
 else:
     print("invalid choice")
 
